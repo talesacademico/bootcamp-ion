@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tK0AB6nuLtV/Kk+MuxBhAN64qNB5o50dmM+KD0pdFg+RNhCUlF8LYcOlEzcyUHmk0okYr/4FB4/+nuGsTAZ3aQ==",
+  "dgSpecHash": "tX3KYDognHauyQbyUdINJyrDXeWN8bKMUZi2XydCLEafnxkeqt72nU323IiHHQr4jAh268INf9q9Dyhi2BqvWg==",
   "success": true,
-  "projectFilePath": "/home/tales/Desktop/Ion/bootcamp-diamantina/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
+  "projectFilePath": "/home/tales/Desktop/Ion/bootcamp-ion/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
