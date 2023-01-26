@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3B360E6A-E008-46BA-AEC4-3EB59E026D0E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2260B91A-A2E3-473F-BE5A-0CEF748FAE5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefas.Web", "src\Tarefas.Web\Tarefas.Web.csproj", "{2C698546-EAD2-450F-B811-AD06264BC10E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefas.Web", "src\Tarefas.Web\Tarefas.Web.csproj", "{5F0D1357-AC3D-4149-9A87-324EC2D6138F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,12 +16,12 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2C698546-EAD2-450F-B811-AD06264BC10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C698546-EAD2-450F-B811-AD06264BC10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C698546-EAD2-450F-B811-AD06264BC10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C698546-EAD2-450F-B811-AD06264BC10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0D1357-AC3D-4149-9A87-324EC2D6138F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0D1357-AC3D-4149-9A87-324EC2D6138F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0D1357-AC3D-4149-9A87-324EC2D6138F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0D1357-AC3D-4149-9A87-324EC2D6138F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2C698546-EAD2-450F-B811-AD06264BC10E} = {3B360E6A-E008-46BA-AEC4-3EB59E026D0E}
+		{5F0D1357-AC3D-4149-9A87-324EC2D6138F} = {2260B91A-A2E3-473F-BE5A-0CEF748FAE5E}
 	EndGlobalSection
 EndGlobal

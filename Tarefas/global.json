@@ -1,6 +1,6 @@
 {
-  "projects": ["src"],
+  "projects" : ["src"],
   "sdk": {
-    "version": "7.0.102"
+    "version": "7.0.100"
   }
 }
